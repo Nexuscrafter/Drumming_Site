@@ -34,4 +34,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 A big thank you to the drumming community for inspiration and support.
 Drum sounds used in this project are sourced from DrumSampleBank.
 
-![image](https://github.com/Nexuscrafter/Drumming_Site/assets/144047787/4e4a365e-98eb-4359-b986-7fd640fc45b5)
+# UI
+![2024-02-28](https://github.com/Nexuscrafter/Drumming_Site/assets/144047787/932a69a7-e1df-41bf-8d46-e64338af926d)
