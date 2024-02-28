@@ -1,4 +1,4 @@
-#DrumHub
+###DrumHub
 Welcome to DrumHub, your ultimate online destination for playing and experimenting with different drum beats! This web application is designed to provide an interactive and fun experience for drum enthusiasts of all skill levels.
 
 #Features
